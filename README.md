@@ -39,30 +39,25 @@ Business Administration professional and Marketing Management specialist **trans
 
 ## 🛠️ Skills & Tools
 
-**Cybersecurity**
+**Security Analysis**
 
-![Network Security](https://img.shields.io/badge/Network_Security-1A3A5C?style=flat-square)
-![Risk Analysis](https://img.shields.io/badge/Risk_Analysis-1A3A5C?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-1A3A5C?style=flat-square&logo=linux&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1A3A5C?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python_(basic)-1A3A5C?style=flat-square&logo=python&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM_Concepts-1A3A5C?style=flat-square)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS_Concepts-1A3A5C?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-1A3A5C?style=flat-square)
+![Suricata](https://img.shields.io/badge/Suricata-EF7C00?style=flat-square)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-1A3A5C?style=flat-square)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-1A3A5C?style=flat-square)
 
-**Platforms & Tools**
+**SIEM & Monitoring**
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Zoho](https://img.shields.io/badge/Zoho_CRM-E42527?style=flat-square&logo=zoho&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Chronicle](https://img.shields.io/badge/Google_Chronicle-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Business & Transferable**
+**Operating Systems & Scripting**
 
-![Strategic Analysis](https://img.shields.io/badge/Strategic_Analysis-2E86AB?style=flat-square)
-![Client Management](https://img.shields.io/badge/Client_Management-2E86AB?style=flat-square)
-![Documentation](https://img.shields.io/badge/Documentation-2E86AB?style=flat-square)
-![GRC](https://img.shields.io/badge/GRC_Fundamentals-2E86AB?style=flat-square)
-![Remote Work](https://img.shields.io/badge/Remote_Work-2E86AB?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
@@ -87,6 +82,15 @@ Areas where my business background + cybersecurity training create real value:
 
 <div align="center">
 
-![Paola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viana93&show_ic
-Let's connect!
+![Paola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viana93&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to entry-level cybersecurity opportunities — remote preferred.*
+**Let's connect!**
+
 </div>
