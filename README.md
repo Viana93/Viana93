@@ -17,7 +17,7 @@
 | Platform | Course / Path | Status |
 |---|---|---|
 | Coursera | Google Cybersecurity Certificate | ✅ Completed |
-| TryHackMe | Pre Security | 🟡 In progress |
+| TryHackMe | Pre Security (Defensive Security Intro ✅) | 🟡 In progress |
 | CompTIA | Security+ | 🔜 Coming soon |
 
 ---
