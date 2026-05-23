@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Paola 👋</h1>
+<h3 align="center">Aspiring Cybersecurity Analyst</h3>
 
-<!--
-**Viana93/Viana93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🙋‍♀️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Transitioning into **cybersecurity** focused on entry-level roles
+- 🎓 **Google Cybersecurity Certificate** — Completed ✅
+- 🛡️ Practicing hands-on skills on **TryHackMe** (Pre Security path)
+- 🌐 Languages: Spanish (native) | English (intermediate)
+
+---
+
+## 🎯 Current Learning Path
+
+| Platform | Course / Path | Status |
+|---|---|---|
+| Coursera | Google Cybersecurity Certificate | ✅ Completed |
+| TryHackMe | Pre Security | 🟡 In progress |
+| CompTIA | Security+ | 🔜 Coming soon |
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/paolavianapaez/)
