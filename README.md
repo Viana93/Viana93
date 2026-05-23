@@ -78,12 +78,6 @@ Areas where my business background + cybersecurity training create real value:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Paola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viana93&show_icons=true&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
