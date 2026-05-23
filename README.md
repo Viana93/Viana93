@@ -78,10 +78,6 @@ Areas where my business background + cybersecurity training create real value:
 
 ---
 
-</div>
-
----
-
 <div align="center">
 
 *Open to entry-level cybersecurity opportunities — remote preferred.*
