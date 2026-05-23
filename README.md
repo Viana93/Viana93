@@ -30,7 +30,7 @@ Business Administration professional and Marketing Management specialist **trans
 
 | Platform | Course / Path | Status |
 |----------|--------------|--------|
-| Google / Coursera | Google Cybersecurity Certificate | ✅ Completed |
+| Google / Coursera | Google Cybersecurity Certificate | ✅ [Completed](https://www.coursera.org/account/accomplishments/professional-cert/JJABPI8ZPUA2) |
 | TryHackMe | Pre Security (Defensive Security Intro) | 🟡 In progress |
 | TryHackMe | SOC Level 1 | 🔜 Coming soon |
 | CompTIA | Security+ | 🔜 Coming soon |
@@ -92,5 +92,7 @@ Areas where my business background + cybersecurity training create real value:
 
 *Open to entry-level cybersecurity opportunities — remote preferred.*
 **Let's connect!**
+
+</div>
 
 </div>
