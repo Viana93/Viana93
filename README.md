@@ -1,88 +1,157 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Paola+Viana+%F0%9F%91%8B;Cybersecurity+Junior;Business+%2B+Security+Mindset;Google+Certified+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Paola+Viana+%F0%9F%91%8B;Aspiring+Ethical+Hacker;Future+Penetration+Tester;Google+Cybersecurity+Certified+%E2%9C%85;Learning+by+Building+Labs" />
 
-**`Cybersecurity Junior | Google Certified | Business + Security Mindset`**
+# 👋 Hi, I'm Paola Viana
+
+### 🛡️ Aspiring Ethical Hacker | Future Penetration Tester
+
+**Learning Offensive Security through real labs, hands-on practice and continuous learning.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paolavianapaez/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paoviana8@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOURUSERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/YOURUSERNAME?style=for-the-badge)](https://github.com/YOURUSERNAME)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩🏻‍💻 About Me
 
-Business Administration professional and Marketing Management specialist **transitioning into cybersecurity** — not starting from zero, but **evolving from a strong foundation**.
+I'm transitioning into Cybersecurity with a clear goal:
 
-- 🔐 Google Cybersecurity Certificate — **Completed ✅**
-- 🛡️ Hands-on practice on **TryHackMe** (Pre Security path — in progress)
-- 💼 5+ years managing digital environments, client data, and access controls for businesses in **Colombia, Costa Rica & Canada**
-- 🧠 I bring what many technical juniors don't: **strategic thinking, client communication, documentation, and business risk awareness**
-- 🌎 Languages: **Spanish** (native) | **English** (intermediate — professional reading & writing)
+🎯 **Become a Professional Penetration Tester (Ethical Hacker).**
 
-> *"Cybersecurity isn't just technical — it's about understanding risk, people, and business. That's where I stand out."*
+After more than five years working in Marketing and Business Strategy, I decided to build a career in Offensive Security.
+
+Currently I focus on:
+
+- Ethical Hacking
+- Penetration Testing
+- Linux
+- Networking
+- Web Security
+- Active Directory
+- Python Automation
+
+I believe cybersecurity is about much more than hacking:
+
+> Understanding technology, business risk and people.
 
 ---
 
-## 🚀 Current Learning Path
+# 🚀 Current Roadmap
 
-| Platform | Course / Path | Status |
-|----------|--------------|--------|
-| Google / Coursera | Google Cybersecurity Certificate | ✅ [Completed](https://www.coursera.org/account/accomplishments/professional-cert/JJABPI8ZPUA2) |
-| TryHackMe | Pre Security (Defensive Security Intro) | 🟡 In progress |
-| TryHackMe | SOC Level 1 | 🔜 Coming soon |
-| CompTIA | Security+ | 🔜 Coming soon |
+| Platform | Status |
+|----------|--------|
+| ✅ Google Cybersecurity Certificate | Completed |
+| 🟡 Cisco Ethical Hacker | In Progress |
+| 🟟 TryHackMe - Pre Security | In Progress |
+| ⏳ TryHackMe - Junior Penetration Tester | Next |
+| ⏳ PortSwigger Academy | Next |
+| ⏳ Hack The Box | Planned |
+| ⏳ eJPT Certification | Goal 2027 |
 
 ---
 
-## 🛠️ Skills & Tools
+# 🛠 Currently Learning
 
-**Security Analysis**
+### Networking
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-1A3A5C?style=flat-square)
-![Suricata](https://img.shields.io/badge/Suricata-EF7C00?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-1A3A5C?style=flat-square)
-![NIST CSF](https://img.shields.io/badge/NIST_CSF-1A3A5C?style=flat-square)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-blue)
+![DNS](https://img.shields.io/badge/DNS-blue)
+![HTTP](https://img.shields.io/badge/HTTP-blue)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark)
 
-**SIEM & Monitoring**
+---
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Chronicle](https://img.shields.io/badge/Google_Chronicle-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**Operating Systems & Scripting**
+### Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## 🎯 Target Roles
+### Offensive Security
 
-Areas where my business background + cybersecurity training create real value:
+![Nmap](https://img.shields.io/badge/Nmap-005571?style=flat-square)
 
-- 🔍 **SOC Analyst (L1)** — monitoring, triage, incident response
-- 📋 **GRC Analyst** — governance, risk, compliance
-- 🎓 **Security Awareness** — training, communication, policy
-- 🤝 **Customer Security / Consulting** — client-facing security roles
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-00599C?style=flat-square)
+
+![SQLMap](https://img.shields.io/badge/SQLMap-red?style=flat-square)
+
+![Hydra](https://img.shields.io/badge/Hydra-darkred?style=flat-square)
 
 ---
 
-## 📂 Projects & Writeups
+### Programming
 
-> 🚧 Currently building — TryHackMe writeups and practice labs coming soon.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+---
+
+# 📚 Currently Studying
+
+- Linux
+- Networking
+- Ethical Hacking
+- Web Application Security
+- OWASP Top 10
+- Active Directory
+- Privilege Escalation
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Finish Cisco Ethical Hacker
+- ✅ Complete TryHackMe Junior Penetration Tester
+- ✅ Build 30+ Hands-on Labs
+- ✅ Publish Write-ups on GitHub
+- ✅ Learn Burp Suite
+- ✅ Learn Nmap
+- ✅ Start Hack The Box
+- ✅ Prepare for eJPT
+
+---
+
+# 📂 Labs & Write-ups
+
+This repository documents my cybersecurity learning journey.
+
+Here you'll find:
+
+- TryHackMe Labs
+- Nmap Scans
+- Linux Practice
+- Enumeration Notes
+- Web Security Labs
+- Burp Suite Practice
+- Active Directory Labs
+- Write-ups
+
+*(Coming Soon)*
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-*Open to entry-level cybersecurity opportunities — remote preferred.*
-**Let's connect!**
+## 🚀 Future Penetration Tester
 
-</div>
+*"Learning by doing one lab at a time."*
 
 </div>
