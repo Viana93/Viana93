@@ -45,8 +45,8 @@ I believe cybersecurity is about much more than hacking:
 | Platform | Status |
 |----------|--------|
 | ✅ Google Cybersecurity Certificate | Completed |
+| ✅ TryHackMe - Pre Security | Completed |
 | 🟡 Cisco Ethical Hacker | In Progress |
-| 🟟 TryHackMe - Pre Security | In Progress |
 | ⏳ TryHackMe - Junior Penetration Tester | Next |
 | ⏳ PortSwigger Academy | Next |
 | ⏳ Hack The Box | Planned |
