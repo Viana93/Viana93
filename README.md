@@ -11,13 +11,13 @@ Business Administrator transitioning into Cybersecurity through hands-on labs in
 - 🧩 TryHackMe — Practical Labs
 - 📍 Bogotá, Colombia
 
-## Featured Labs
+## 📂 Featured Labs
 
-| Platform | Status |
-|----------|--------|
-| Google Cybersecurity | ✅ Completed |
-| TryHackMe | 🟡 In Progress |
-| Cisco Ethical Hacker | 🟡 In Progress |
+| Laboratorio | Estado |
+|-------------|--------|
+| [Google Cybersecurity Labs](https://github.com/Viana93/google-cybersecurity-labs) | ✅ Completado |
+| TryHackMe Labs | 🟡 En progreso |
+| Cisco Ethical Hacker Labs | 🟡 En progreso |
 
 ## Technical Skills
 
